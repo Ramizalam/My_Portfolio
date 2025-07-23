@@ -46,16 +46,13 @@ To run this project locally, follow these steps:
      cd personal-portfolio 
 
 
-  ```bash   
+   ```bash   
      npm install
             
     ```bash        
     npm start
 Usage
 Once the development server is running, you can view the website by navigating to http://localhost:3000 in your web browser.
-
-Screenshots
-Screenshot 1 Screenshot 2
 
 Contact
 Feel free to reach out to me through the contact form on the website or via the following channels:
