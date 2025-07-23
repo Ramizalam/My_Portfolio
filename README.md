@@ -36,28 +36,43 @@ This is my personal portfolio website where I present my work, skills, and exper
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
-
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/personal-portfolio.git
+   ```
 
-
+2. **Navigate to the project directory:**
    ```bash
-     cd personal-portfolio 
+   cd personal-portfolio
+   ```
 
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
 
-   ```bash   
-     npm install
-            
-    ```bash        
-    npm start
-Usage
-Once the development server is running, you can view the website by navigating to http://localhost:3000 in your web browser.
+4. **Start the development server:**
+   ```bash
+   npm start
+   ```
 
-Contact
+## Usage
+
+Once the development server is running, you can view the website by navigating to `http://localhost:3000` in your web browser.
+
+## Screenshots
+
+*Add screenshots of your portfolio website here to showcase its design and features.*
+
+## Contact
+
 Feel free to reach out to me through the contact form on the website or via the following channels:
 
-LinkedIn: Ramiz Alam
-Twitter: @ramizal29448573
-Instagram: @ramizalam28
-GitHub: Ramizalam
+- **LinkedIn**: [Ramiz Alam](https://linkedin.com/in/ramiz-alam)
+- **Twitter**: [@ramizal29448573](https://twitter.com/ramizal29448573)
+- **Instagram**: [@ramizalam28](https://instagram.com/ramizalam28)
+- **GitHub**: [Ramizalam](https://github.com/Ramizalam)
+
+---
+
+*This portfolio is continuously updated with new projects and improvements. Thank you for visiting!*
